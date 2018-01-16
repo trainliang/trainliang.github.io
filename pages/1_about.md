@@ -17,7 +17,7 @@ Telegram：@trainliang
 Git Hub：https://github.com/trainliang
 
 
-QQ 邮箱：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QDMkMDksIzkANikwbjExbiMvLQ" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+QQ 邮箱：<a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QDMkMDksIzkANikwbjExbiMvLQ" style="text-decoration:none;"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 
 # Just about site
 
@@ -29,7 +29,7 @@ QQ 邮箱：<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_ma
 
 # Just about ALL
 
-[blog.agaege.com](https://blog.agaege.com"blog.agaege.com")：AE博客，此站仅限于原创技术分享！
+[https://blog.agaege.com](https://blog.agaege.com"blog.agaege.com")：(SSL+HTTP/2+TLS1.3)AE博客，此站仅限于原创技术分享！
 
-[bbs.agaege.com](https://bbs.agaege.com"bbs.agaege.com")：左右双赢论坛，资源教程分享，原生支持合理合法广告！
+[https://bbs.agaege.com](https://bbs.agaege.com"bbs.agaege.com")：(SSL+HTTP/2+TLS1.3)左右双赢论坛，资源教程分享，原生支持合理合法广告！
 
