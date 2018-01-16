@@ -29,7 +29,7 @@ QQ 邮箱：<a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_m
 
 # Just about ALL
 
-[https://blog.agaege.com](https://blog.agaege.com"blog.agaege.com")：(SSL+HTTP/2+TLS1.3)AE博客，此站仅限于原创技术分享！
+[https://blog.agaege.com](https://blog.agaege.com)：(SSL+HTTP/2+TLS1.3)AE博客，此站仅限于原创技术分享！
 
-[https://bbs.agaege.com](https://bbs.agaege.com"bbs.agaege.com")：(SSL+HTTP/2+TLS1.3)左右双赢论坛，资源教程分享，原生支持合理合法广告！
+[https://bbs.agaege.com](https://bbs.agaege.com)：(SSL+HTTP/2+TLS1.3)左右双赢论坛，资源教程分享，原生支持合理合法广告！
 
