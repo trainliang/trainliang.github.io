@@ -29,6 +29,6 @@ newsourceroot:  https://github.com/trainliang/trainliang.github.io/blob/master/
 markdown: kramdown
 
 # highlight
- highlighter: pygments
+highlighter: pygments
 # highlighter: rouge
 # highlighter: false
