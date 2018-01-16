@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到我的博客！
 
 
 > 我荒废了时间，时间便把我荒废了。
