@@ -34,7 +34,7 @@ comments: true
 - 地址链接：[postimg图床](https://postimages.org/)
 - 测试图片
 - [![postimage.jpg](https://s14.postimg.org/q3c1tmiwh/postimage.jpg)](https://postimg.org/image/obj2ypzjh/)
-- 删除链接：https://postimg.org/delete/k2ecwjwaa/
+- 删除链接：https://postimg.org/delete/k2ecw...../
 
 ---
 
@@ -63,7 +63,7 @@ JPG PNG BMP GIF 64 MB
 - 测试图片
 ![imgaa.jpg](https://i.imgaa.com/2018/01/16/5a5d665970ebd.jpg)
 - 删除链接
-https://imgaa.com/api/delete/tqsJIkE8bXLK21C
+https://imgaa.com/api/delete/tqsJIk.....
 
 
 
