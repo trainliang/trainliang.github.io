@@ -21,8 +21,8 @@ newsourceroot:  https://github.com/trainliang/trainliang.github.io/blob/master/
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: trainliang
-disqus_url: "https://blog.agaege.com"
+#disqus_shortname: trainliang
+#disqus_url: "https://blog.agaege.com"
 #########################################
 
 # Build settings
